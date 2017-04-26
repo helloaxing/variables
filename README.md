@@ -1,7 +1,9 @@
 # variables
 
 网上看js闭包问题的时候也了解了一下变量定义 const,var,let 的区别
+
 1.const定义的变量不可以修改，而且必须初始化。
+
 const b = 2;//正确
 // const b;//错误，必须初始化 
 console.log('函数外const定义b：' + b);  //有输出值
