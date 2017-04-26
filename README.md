@@ -1,6 +1,6 @@
 # variables
 
-网上看js闭包问题的时候也了解了一下变量定义 const,var,let 的区别
+<h2>网上看js闭包问题的时候也了解了一下变量定义 const,var,let 的区别</h2>
 
 1.const定义的变量不可以修改，而且必须初始化。
 
