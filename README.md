@@ -1,4 +1,4 @@
-# variables
+# variables http://blog.helloaxing.top/?p=89
 
 <h2>网上看js闭包问题的时候也了解了一下变量定义 const,var,let 的区别</h2>
 
